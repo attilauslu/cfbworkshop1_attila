@@ -18,7 +18,7 @@ folder_topic/article_topic
 
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 :hidden:
 :caption: test topic
 folder_topic/article_test
