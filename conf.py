@@ -6,9 +6,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Data Science Platform notes template"
-copyright = "2024, DTU Biosustain, Informatics Platform, DSP"
-author = "Henry Webel"
+project = "Attila training with Henry"
+copyright = "Attila Uslu"
+author = "Attila Uslu"
 
 
 # -- General configuration ---------------------------------------------------
@@ -80,8 +80,8 @@ html_theme = "sphinx_book_theme"
 # html_logo = "_static/logo-wide.svg"
 # html_favicon = "_static/logo-square.svg"
 html_theme_options = {
-    "github_url": "https://github.com/enryh/",
-    "repository_url": "https://github.com/enryh/notes_template",
+    "github_url": "https://github.com/attilauslu",
+    "repository_url": "https://github.com/attilauslu/cfbworkshop1_attila",
     # "repository_branch": "main",
     # "home_page_in_toc": True,
     # "path_to_docs": "docs",
