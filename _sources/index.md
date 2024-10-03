@@ -13,7 +13,13 @@ about
 :maxdepth: 2
 :hidden:
 :caption: A topic
-
 folder_topic/article_topic
 ```
 
+
+```{toctree}
+:maxdepth: 1
+:hidden:
+:caption: A topic
+folder_topic/article_test
+```
